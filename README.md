@@ -3,6 +3,8 @@ Horsepower is an app that calculates how much your computer equipment and techno
 
 # Background
 
+# Explanation of Statistical Methods
+
 # Technical Architecture in Diagrammatical Form
 
 # Credits
